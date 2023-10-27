@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
+## Im Noah
+## A:
+# - Python
+# - Go
+# - C
+## Developer
+## Im interested in programming language design and OS programming
+### Currently Buildinh:
+## Goofy OS: a simple os using nanobytes course
+## Climate Logger: A simple logger that logs climate data written in go
+## Archinstaller: my personalised arch install script
+### Currently learning:
+## - Advanced C
+## - Soon learning Rust
 
-<!--
-**NoahStoessel/NoahStoessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
