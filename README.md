@@ -19,4 +19,5 @@ I Know:
 - Soon learning Rust
 
 Racist list:
-@lucasammer
+
+@riley0122
