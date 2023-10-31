@@ -18,4 +18,5 @@ I Know:
 - Advanced C
 - Soon learning Rust
 
-
+Racist list:
+@lucasammer
