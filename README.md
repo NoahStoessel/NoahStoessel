@@ -13,6 +13,7 @@ I Know:
   - Goofy OS: a simple os using nanobytes course
   - Climate Logger: A simple logger that logs climate data written in go
   - Archinstaller: my personalised arch install script
+  - No-Name Lang: programming language cuz why not
 
 ### Currently learning:
 - Advanced C
