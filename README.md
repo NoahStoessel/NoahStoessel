@@ -2,10 +2,10 @@
 #### _Hi, I'm Noah, a low-level developer currently working on multiple projects:_
 
   <a href="Archimedes">
-  <img src="https://img.shields.io/badge/Archimedes-Custom%20CPU%20Architecture-blue.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Archimedes-Custom%20CPU%20Architecture-blue.svg?style=for-the-badge" /><br />
 </a>
 <a href="Odyn AI">
-  <img src="https://img.shields.io/badge/OdynAI-AI%20Platform-red.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OdynAI-AI%20Platform-red.svg?style=for-the-badge" /><br />
 </a>
 <a href="Saturn">
   <img src="https://img.shields.io/badge/Saturn-Systems%20Programming%20Language-green.svg?style=for-the-badge" />
@@ -18,7 +18,6 @@
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
